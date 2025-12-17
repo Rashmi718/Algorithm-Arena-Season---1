@@ -1,5 +1,5 @@
 This Repository contains the daily problems solution of DSA
-problem statems from 
+problem statementsfrom 
 - leetcode
 - geeks for geeks
 - codeforces
